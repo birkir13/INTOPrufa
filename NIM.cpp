@@ -31,7 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
-		cout << "Birkir var her" << endl;		
+		cout << "Birkri Breytti thessu" << endl;		
 
 	int val;
 	do
