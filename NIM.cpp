@@ -1,4 +1,3 @@
-//NIM dabs október 1997
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -31,6 +30,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout << "Helgi"<<endl; // Helgi var hér
 	int val;
 	do
 	{
